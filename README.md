@@ -15,6 +15,11 @@
 4. **引入的是Ant Design框架**
     1. 安装框架：`npm install antd -D`, 修改 src/App.css，在文件顶部引入 antd/dist/antd.css,  `@import '~antd/dist/antd.css';`
 
+## 分支
+
+* `main` : 主分支
+* `dev` : 执行`npm run eject`后的代码, 将所有隐藏起来的配置都解包出来, 用于了解其相关配置
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
